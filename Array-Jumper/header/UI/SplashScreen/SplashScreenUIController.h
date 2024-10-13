@@ -1,11 +1,13 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../../header/UI/UIElement/AnimatedImageView.h"
+//#include "../../header/UI/UIElement/AnimatedImageView.h"
 
+#include "../UIElement/AnimatedImageView.h"
 namespace UI
 {
 	namespace SplashScreen
 	{
+		//using namespace UIElement;
 		/*class SoundService;*/
 
 		class SplashScreenUIController

@@ -1,9 +1,9 @@
-#include "../../header/Main/GameService.h"
 
+#include "header/Main/GameService.h"
 int main()
 {
     using namespace Main;
-
+    
     GameService* game_service = new GameService();
     game_service->ignite();
 

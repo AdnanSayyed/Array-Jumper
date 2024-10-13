@@ -1,8 +1,8 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../../header/UI/UIElement/ImageView.h"
-#include "../../header/UI/UIElement/ButtonView.h"
-#include "../../header/UI/UIElement/TextView.h"
+#include "../UIElement/ImageView.h"
+#include "../UIElement/ButtonView.h"
+#include "../UIElement/TextView.h"
 
 namespace UI
 {
