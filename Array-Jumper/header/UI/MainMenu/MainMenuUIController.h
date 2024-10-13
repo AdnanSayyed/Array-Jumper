@@ -1,8 +1,10 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../../header/Sound/SoundService.h"
-#include "../../header/UI/UIElement/ImageView.h"
-#include "../../header/UI/UIElement/ButtonView.h"
+#include "../../Sound/SoundService.h"
+//#include "../../header/Sound/SoundService.h"
+//#include "../../header/UI/UIElement/ImageView.h"
+#include "../UIElement/ImageView.h"
+#include "../UIElement/ButtonView.h"
 
 namespace UI
 {
