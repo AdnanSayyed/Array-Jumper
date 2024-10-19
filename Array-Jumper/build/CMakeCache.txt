@@ -401,8 +401,7 @@ SFML_BUILD_AUDIO:BOOL=TRUE
 //TRUE to generate the API documentation, FALSE to ignore it
 SFML_BUILD_DOC:BOOL=FALSE
 
-//TRUE to build the SFML examples, FALSE to ignore them
-SFML_BUILD_EXAMPLES:BOOL=FALSE
+SFML_BUILD_EXAMPLES:BOOL=OFF
 
 //TRUE to build SFML as frameworks libraries (release only), FALSE
 // to build according to BUILD_SHARED_LIBS
@@ -413,6 +412,8 @@ SFML_BUILD_GRAPHICS:BOOL=TRUE
 
 //TRUE to build SFML's Network module.
 SFML_BUILD_NETWORK:BOOL=TRUE
+
+SFML_BUILD_TESTS:BOOL=OFF
 
 //TRUE to build the SFML test suite, FALSE to ignore it
 SFML_BUILD_TEST_SUITE:BOOL=FALSE

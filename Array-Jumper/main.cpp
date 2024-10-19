@@ -1,9 +1,12 @@
 
 #include "header/Main/GameService.h"
+#include <filesystem>
+#include <iostream>
 int main()
 {
     using namespace Main;
-    
+     std::string temp = std::filesystem::current_path();
+    // Your code...
     GameService* game_service = new GameService();
     game_service->ignite();
 

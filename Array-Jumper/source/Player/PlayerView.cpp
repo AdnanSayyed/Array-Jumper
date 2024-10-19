@@ -5,14 +5,16 @@
 namespace Player
 {
     using namespace Global;
-    PlayerView::PlayerView()
+    using namespace UI::UIElement;
+    
+    PlayerView::PlayerView(PlayerController *controller)
     {
+        player_controller = controller;
         game_window = nullptr;
-        player_image = new UI::UIElement::ImageView();
+        player_image = new ImageView();
     }
 
     PlayerView::~PlayerView() {}
-
 
     void PlayerView::update()
     {
@@ -21,7 +23,14 @@ namespace Player
 
     void PlayerView::render()
     {
-        // Yet to implement
+        // switch (player_controller->getPlayerState())
+        // {
+        // case PlayerState::ALIVE:
+        //     break;
+        // }
+            drawPlayer();
+
+       
     }
 
     void PlayerView::calculatePlayerDimensions()
