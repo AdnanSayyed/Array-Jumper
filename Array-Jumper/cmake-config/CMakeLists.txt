@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.28)
 project(CMakeSFMLProject LANGUAGES CXX)
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/..)
 option(BUILD_SHARED_LIBS "Build shared libraries" OFF)
 
 include(FetchContent)
@@ -13,10 +13,35 @@ FetchContent_Declare(SFML
     SYSTEM)
 FetchContent_MakeAvailable(SFML)
 
-add_executable(main ../main.cpp)
-target_link_libraries(main PRIVATE sfml-graphics)
+set(SFML_BUILD_EXAMPLES OFF CACHE BOOL "" FORCE)
+set(SFML_BUILD_TESTS OFF CACHE BOOL "" FORCE)
+
+# Add the include directories where your header files are 
+#sma- now I included all header files so in .cpp no need to decalre header paths from header directory
+#include_directories(${CMAKE_SOURCE_DIR}/../header)
+include_directories(${CMAKE_SOURCE_DIR}/../header)
+
+# Collect all source files in the source directory
+#sma - it will collect all cpp files from source folder so no need to add each file manually
+file(GLOB_RECURSE SOURCE_FILES
+    ../source/*.cpp  # Adjust the glob pattern to match your source file paths
+)
+add_executable(main ../main.cpp ${SOURCE_FILES})
+
+
+
+target_link_libraries(main PRIVATE sfml-graphics sfml-audio sfml-window sfml-system)
 target_compile_features(main PRIVATE cxx_std_17)
 
+#std::cout << "Current working directory: " << std::filesystem::current_path() << std::endl;
+#sma - added this to set the path to root of project , not inside the cmake folder
+#you can always check the path using above cpp line then adjust below path accordingly
+#if path is in subfolders then we need to adjust the all the declared configs paths
+set_target_properties(main PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/..")
+
+
+
+# Windows-specific settings
 if(WIN32)
     add_custom_command(
         TARGET main

@@ -283,6 +283,486 @@ Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.s
 .PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.s
 
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -306,6 +786,66 @@ help:
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.o"
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.i"
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.s"
 .PHONY : help
 
 

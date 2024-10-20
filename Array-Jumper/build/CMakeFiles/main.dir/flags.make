@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = -DSFML_STATIC
 
-CXX_INCLUDES = -isystem /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include
+CXX_INCLUDES = -I/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/cmake-config/../header -isystem /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include
 
 CXX_FLAGSarm64 = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -F/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks 
 

@@ -83,24 +83,346 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/ma
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.s
 
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.s
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o -MF CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o.d -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp > CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.i
+
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.s
+
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.o"
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o" \
+"CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-bin/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.o
-bin/main: CMakeFiles/main.dir/build.make
-bin/main: _deps/sfml-build/lib/libsfml-graphics-s-d.a
-bin/main: _deps/sfml-build/lib/libsfml-window-s-d.a
-bin/main: _deps/sfml-build/lib/libsfml-system-s-d.a
-bin/main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable bin/main"
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Graphics/GraphicService.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Main/GameService.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerController.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerModel.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerService.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Player/PlayerView.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Credits/CreditsScreenUIController.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/Instructions/InstructionsUIController.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/MainMenu/MainMenuUIController.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/SplashScreen/SplashScreenUIController.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/AnimatedImageView.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ButtonView.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/ImageView.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/TextView.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIElement/UIView.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/UI/UIService.cpp.o
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/build.make
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: _deps/sfml-build/lib/libsfml-graphics-s-d.a
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: _deps/sfml-build/lib/libsfml-audio-s-d.a
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: _deps/sfml-build/lib/libsfml-window-s-d.a
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: _deps/sfml-build/lib/libsfml-system-s-d.a
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: _deps/sfml-src/extlibs/libs-osx/Frameworks/OpenAL.framework/OpenAL
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main: CMakeFiles/main.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/main.dir/build: bin/main
+CMakeFiles/main.dir/build: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/main
 .PHONY : CMakeFiles/main.dir/build
 
 CMakeFiles/main.dir/clean:
