@@ -26,7 +26,7 @@ include_directories(${CMAKE_SOURCE_DIR}/../header)
 file(GLOB_RECURSE SOURCE_FILES
     ../source/*.cpp  # Adjust the glob pattern to match your source file paths
 )
-add_executable(main ../main.cpp ${SOURCE_FILES})
+add_executable(main ../main.cpp ${SOURCE_FILES} )
 
 
 
