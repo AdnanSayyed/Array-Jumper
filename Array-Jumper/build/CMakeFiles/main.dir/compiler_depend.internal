@@ -6387,16 +6387,23 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/ImageView.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/UIView.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelView.h
 
 CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelModel.cpp.o
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelModel.cpp
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
 
 CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelService.cpp.o
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelService.cpp
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
 
@@ -7480,7 +7487,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/ImageView.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/UIView.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelView.h
 
