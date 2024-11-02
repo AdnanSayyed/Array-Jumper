@@ -29,6 +29,10 @@ namespace Level
         void drawBoxValue(sf::Vector2f position, BlockType box_value);
         void calculateBoxDimensions();
 
+        void calculateBoxWidthHeight();
+        void calculateBoxSpacing();
+        sf::Vector2f calculateBoxPosition(int index);
+
         void createImages();
         void initializeImages();
         void updateImages();
