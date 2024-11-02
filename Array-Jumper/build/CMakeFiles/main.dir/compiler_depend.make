@@ -6381,14 +6381,21 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/ImageView.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/UIView.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelView.h
 
-CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelModel.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelModel.cpp
+CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelModel.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelModel.cpp \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
 
 CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelService.cpp.o: /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Level/LevelService.cpp \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
 
@@ -7471,7 +7478,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/ImageView.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/UIView.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelView.h
 
@@ -22462,6 +22471,8 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
 
 /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelView.h:
 
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h:
+
 /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelController.h:
 
 /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/ServiceLocator.cpp:
@@ -23581,6 +23592,8 @@ _deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__type_traits/rank.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__fwd/hash.h:
+
+/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__exception/nested_exception.h:
 
