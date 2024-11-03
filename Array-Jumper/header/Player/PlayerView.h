@@ -1,5 +1,6 @@
 #pragma once
 #include "../../header/UI/UIElement/ImageView.h"
+#include "../../header/Level/LevelModel.h"
 
 namespace Player
 {
@@ -22,6 +23,8 @@ namespace Player
 		void updatePlayerPosition();
 		sf::Vector2f calulcatePlayerPosition();
 
+		Level::BoxDimensions current_box_dimensions;
+		void CalculatePlayerDimensions();
 	public:
 		PlayerView(PlayerController* controller);
 		~PlayerView();

@@ -1077,6 +1077,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/ma
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -2162,6 +2165,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -4279,6 +4285,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -7462,6 +7471,7 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -8548,6 +8558,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -9610,6 +9623,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/ImageView.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/UIView.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerController.h
@@ -10680,6 +10696,7 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -10702,8 +10719,12 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Global/Config.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Global/ServiceLocator.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/ImageView.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIElement/UIView.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerController.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerView.h
 
 CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Sound/SoundService.cpp.o
@@ -12821,6 +12842,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -13908,6 +13932,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -14995,6 +15022,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -16082,6 +16112,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -18206,6 +18239,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -21364,6 +21400,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h
@@ -22445,6 +22484,9 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Global/ServiceLocator.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Graphics/GraphicService.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h
+ /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelModel.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Sound/SoundService.h

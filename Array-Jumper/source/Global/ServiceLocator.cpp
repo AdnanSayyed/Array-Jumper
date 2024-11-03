@@ -34,8 +34,8 @@ namespace Global
 		event_service = new EventService();
 		sound_service = new SoundService();
 		ui_service = new UIService();
-		player_service = new PlayerService();
 		level_service = new LevelService();
+		player_service = new PlayerService();
 	}
 
 	void ServiceLocator::initialize()
@@ -44,8 +44,8 @@ namespace Global
 		event_service->initialize();
 		sound_service->initialize();
 		ui_service->initialize();
-		player_service->initialize();
 		level_service->intialize();
+		player_service->initialize();
 	}
 
 	void ServiceLocator::update()
@@ -53,11 +53,11 @@ namespace Global
 		graphic_service->update();
 		event_service->update();
 		ui_service->update();
+		level_service->update();
 		if (GameService::getGameState() == GameState::GAMEPLAY)
 		{
 			player_service->update();
 		}
-		level_service->update();
 	}
 
 	void ServiceLocator::render()
@@ -66,9 +66,9 @@ namespace Global
 		ui_service->render();
 		if (GameService::getGameState() == GameState::GAMEPLAY)
 		{
-			//player_service->render();
+			level_service->render();
+			player_service->render();
 		}
-		level_service->render();
 	}
 
 	void ServiceLocator::clearAllServices()
