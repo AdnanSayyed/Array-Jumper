@@ -2,7 +2,7 @@
 
 #include "../../header/Player/MovementDirection.h"
 #include "../../header/Event/EventService.h"
-
+#include "../../header/Level/BlockType.h"
 namespace Player
 {
 	class PlayerView;
@@ -24,7 +24,7 @@ namespace Player
 		bool isPositionInBound(int targetPosition);
 
 		void readInput();
-
+		void jump(MovementDirection direction);
 
 	public:
 		PlayerController();
