@@ -9654,6 +9654,7 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/SplashScreen/SplashScreenUIController.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/UI/UIService.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Global/ServiceLocator.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/LevelData.h \
@@ -10614,6 +10615,7 @@ CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/so
   _deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
   _deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Event/EventService.h \
+  /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Level/BlockType.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/MovementDirection.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerController.h \
   /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/header/Player/PlayerService.h
