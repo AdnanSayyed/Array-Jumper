@@ -19,6 +19,8 @@ namespace Player
 		player_model->initialize();
 		player_view->initialize();
 		event_service = Global::ServiceLocator::getInstance()->getEventService();
+
+		player_model->resetPlayer();
 	}
 
 	void PlayerController::update()
@@ -76,6 +78,8 @@ namespace Player
 
 		player_model->setCurrentPosition(targetPosition);
 		Global::ServiceLocator::getInstance()->getSoundService()->playSound(Sound::SoundType::MOVE);
+
+		Global::ServiceLocator::getInstance()->getGameplayService()->onPositionChanged(targetPosition);
 	}
 
 	bool PlayerController::isPositionInBound(int targetPosition)
@@ -128,6 +132,14 @@ namespace Player
 
 		player_model->setCurrentPosition(targetPosition);
 		Global::ServiceLocator::getInstance()->getSoundService()->playSound(Sound::SoundType::JUMP);
+	
+		Global::ServiceLocator::getInstance()->getGameplayService()->onPositionChanged(targetPosition);
+
+	}
+
+	void PlayerController::takeDamage()
+	{
+		player_model->resetPlayer();
 	}
 
 }

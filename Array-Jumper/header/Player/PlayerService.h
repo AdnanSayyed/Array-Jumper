@@ -10,6 +10,7 @@ namespace Player
 
 		void destroy();
 
+
 	public:
 		PlayerService();
 		~PlayerService();
@@ -17,5 +18,8 @@ namespace Player
 		void initialize();
 		void update();
 		void render();
+
+		void takeDamage();
+
 	};
 }
