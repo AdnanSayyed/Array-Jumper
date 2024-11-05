@@ -23,9 +23,12 @@ include_directories(${CMAKE_SOURCE_DIR}/../header)
 
 # Collect all source files in the source directory
 #sma - it will collect all cpp files from source folder so no need to add each file manually
+#update - the problem with this only when you added new folder or cpp file it is not auto detecting
+#you need to make some changes to this text file and recompile, like add space or empty line
 file(GLOB_RECURSE SOURCE_FILES
     ../source/*.cpp  # Adjust the glob pattern to match your source file paths
 )
+
 add_executable(main ../main.cpp ${SOURCE_FILES} )
 
 

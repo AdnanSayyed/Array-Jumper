@@ -307,6 +307,54 @@ Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventServ
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s
 .PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.cpp.s
 
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.s
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.o
+
+# target to build an object file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.o
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.o
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.i: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.i
+
+# target to preprocess a source file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.i
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.i
+
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.s: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.s
+
+# target to generate assembly for a file
+Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.s
+.PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.s
+
 Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.o: Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o
 .PHONY : Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.o
 
@@ -885,6 +933,12 @@ help:
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.o"
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.i"
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Event/EventService.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.s"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.o"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.i"
+	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.s"
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.o"
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.i"
 	@echo "... Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.s"

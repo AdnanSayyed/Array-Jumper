@@ -25,7 +25,7 @@ namespace Player
 
 		void readInput();
 		void jump(MovementDirection direction);
-
+		
 	public:
 		PlayerController();
 		~PlayerController();
@@ -37,5 +37,7 @@ namespace Player
 		PlayerState getPlayerState();
 		void setPlayerState(PlayerState new_player_state);
 		int getCurrentPosition();
+
+		void takeDamage();		
 	};
 }

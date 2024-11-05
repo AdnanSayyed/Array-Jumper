@@ -13,6 +13,18 @@
 },
 {
   "directory": "/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build",
+  "command": "/usr/bin/clang++ -DSFML_STATIC -I/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/cmake-config/../header -isystem /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -F/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks  -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp",
+  "file": "/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp",
+  "output": "CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayController.cpp.o"
+},
+{
+  "directory": "/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build",
+  "command": "/usr/bin/clang++ -DSFML_STATIC -I/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/cmake-config/../header -isystem /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -F/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks  -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp",
+  "file": "/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp",
+  "output": "CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Gameplay/GameplayService.cpp.o"
+},
+{
+  "directory": "/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build",
   "command": "/usr/bin/clang++ -DSFML_STATIC -I/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/cmake-config/../header -isystem /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -F/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks  -o CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o -c /Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp",
   "file": "/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp",
   "output": "CMakeFiles/main.dir/Users/sayyed/Documents/Personal/Array-Jumper/Array-Jumper/source/Global/Config.cpp.o"
