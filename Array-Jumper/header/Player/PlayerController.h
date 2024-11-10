@@ -39,5 +39,7 @@ namespace Player
 		int getCurrentPosition();
 
 		void takeDamage();		
+
+		void resetPlayer();
 	};
 }
