@@ -154,7 +154,7 @@ namespace Player
 
 	int PlayerController::getCurrentLives()
 	{
-		player_model->getCurrentLives();
+		return player_model->getCurrentLives();
 	}
 
 	void PlayerController::onDeath()
