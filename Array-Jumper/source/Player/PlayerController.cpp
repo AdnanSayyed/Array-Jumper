@@ -6,6 +6,8 @@
 
 namespace Player
 {
+	using namespace Global;
+
 	PlayerController::PlayerController()
 	{
 		player_model = new PlayerModel();
@@ -132,18 +134,32 @@ namespace Player
 
 		player_model->setCurrentPosition(targetPosition);
 		Global::ServiceLocator::getInstance()->getSoundService()->playSound(Sound::SoundType::JUMP);
-	
-		Global::ServiceLocator::getInstance()->getGameplayService()->onPositionChanged(targetPosition);
 
+		Global::ServiceLocator::getInstance()->getGameplayService()->onPositionChanged(targetPosition);
 	}
 
 	void PlayerController::takeDamage()
 	{
-		player_model->resetPlayer();
+		player_model->decrementLife();
+		if (player_model->getCurrentLives() <= 0)
+			onDeath();
+		else
+			player_model->resetPosition();
 	}
 
 	void PlayerController::resetPlayer()
 	{
+		player_model->resetPlayer();
+	}
+
+	int PlayerController::getCurrentLives()
+	{
+		player_model->getCurrentLives();
+	}
+
+	void PlayerController::onDeath()
+	{
+		ServiceLocator::getInstance()->getGameplayService()->onDeath();
 		player_model->resetPlayer();
 	}
 
