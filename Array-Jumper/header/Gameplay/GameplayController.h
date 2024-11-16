@@ -19,5 +19,8 @@ namespace Gameplay
 
 		bool isEndBlock(Level::BlockType value);
 		void processEndBlock();
+
+		void gameOver();
+
 	};
 }
