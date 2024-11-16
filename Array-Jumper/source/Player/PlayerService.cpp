@@ -34,7 +34,7 @@ namespace Player
 
 	int PlayerService::getCurrentLives()
 	{
-		player_controller->getCurrentLives();
+		return player_controller->getCurrentLives();
 	}
 
 	void PlayerService::destroy() { delete(player_controller); }
