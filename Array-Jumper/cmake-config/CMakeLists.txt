@@ -16,6 +16,8 @@ FetchContent_MakeAvailable(SFML)
 set(SFML_BUILD_EXAMPLES OFF CACHE BOOL "" FORCE)
 set(SFML_BUILD_TESTS OFF CACHE BOOL "" FORCE)
 
+
+
 # Add the include directories where your header files are 
 #sma- now I included all header files so in .cpp no need to decalre header paths from header directory
 #include_directories(${CMAKE_SOURCE_DIR}/../header)
