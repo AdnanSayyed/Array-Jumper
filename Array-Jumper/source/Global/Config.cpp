@@ -28,5 +28,6 @@ namespace Global
     const sf::String Config::death_sound_path = "assets/sounds/death.wav";
     const sf::String Config::jump_sound_path = "assets/sounds/jump.wav";
     const sf::String Config::level_complete_sound_path = "assets/sounds/level_complete.wav";
+    const sf::String Config::game_won_sound_path= "assets/sounds/game_won_sound.wav";
     const sf::String Config::move_sound_path = "assets/sounds/move.wav";
 }

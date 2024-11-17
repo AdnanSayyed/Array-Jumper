@@ -7,6 +7,10 @@ namespace Gameplay
 	{
 	private:
 
+
+		bool isLastLevel();
+		void loadNextLevel();
+		void gameWon();
 		
 
 	public:
@@ -22,5 +26,6 @@ namespace Gameplay
 
 		void gameOver();
 
+	
 	};
 }
